@@ -1,6 +1,6 @@
 # Media Appearances
 
-I was featured and invited to several news and media outlets.
+I was featured and invited to several news and media outlets for being the youngest person to pass the California bar exam.
 
 ## Press Release
 

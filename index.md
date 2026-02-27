@@ -3,22 +3,24 @@
 layout: home
 
 hero:
-  name: "Peter Park"
+  name: "Peter Park's"
   text: "Website"
-  tagline: Browse through my projects, achievements, hobbies, and successes.
+  tagline: Browse through my career, projects, achievements, and hobbies.
   actions:
     - theme: brand
       text: Learn More
       link: /education
+  image:
+    src: /assets/me.svg
     # - theme: alt
     #   text: API Examples
     #   link: /api-examples
 
 features:
-  - title: Education
-    details: I became the youngest attorney in the history of California using the smartest path available.
   - title: Attorney
-    details: Criminal justice, media appearances, and community activities.
-  - title: Hobbies and Projects
-    details: Cubing, stenography, coding.
+    details: I passed California bar exam when I was 17 years old and 11 months old.
+  - title: Business owner
+    details: I created StenoKeyboards. Providing affordable, hobbyist stenography keyboards.
+  - title: Creator
+    details: I make stuff. YouTube videos, hardware projects, websites, and more.
 ---

@@ -1,0 +1,3 @@
+# Cubing
+
+One of my very first hobbies. I learned how to solve the Rubik's cube in 2014, inspired by a demonstration by my school's math team. I learned the Rubik's cube and joined the math team for the purpose of competing in the Rubik's cube event. As an unintended consequence, I got pretty good at elementary competition math. I continued cubing and even went to some WCA competitions until about 8th grade. Cubing inspired my first published book, Mindless Rubik's Cube Solution. Though I stopped cubing during the four years of law school, I got back into cubing in the middle of 2025 and started attending WCA competitions again. You can see my WCA profile here: https://www.worldcubeassociation.org/persons/2015PARK11

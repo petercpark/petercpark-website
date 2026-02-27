@@ -2,7 +2,7 @@
 
 ## CLEP Tests
 
-In 2019, when I was in 8th grade, at the age of 13, I took CLEP tests to satisfy the minimum requirements to enroll in law school. The CLEP tests I took were College Composition, Marketing, Microeconomics, Macroeconomics, Psychology, and Sociology. I passed all of them on my first try. The total time it took me to complete all the CLEP tests from start to finish was 2 months. Total cost was approximately $500.
+In 2019, when I was in 8th grade, at the age of 13, I took CLEP tests to satisfy the minimum requirements to enroll in law school. The CLEP tests I took were College Composition, Marketing, Microeconomics, Macroeconomics, Psychology, and Sociology. I passed all of them on my first try. It took me 2 months to study for and take all the CLEP tests. Total cost was approximately $500.
 
 ## Law school
 
@@ -19,3 +19,7 @@ In 2023, at the age of 17, after completing four years of online law school at N
 ## Bachelor degree
 
 In 2021, at the age of 15, after graduating high school early, while studying law, I enrolled in Western Governors University (WGU) to complete a Bachelor's Degree in Business Administration I.T. Management. I completed the degree in 1 month. I started September 2021 and obtained my degree in October 2021. WGU offers competency-based education and allows you to take the final exam for classes at any time. Total cost was approximately $5k.
+
+## Continuing education
+
+I continue to learn by reading books, watching YouTube, and using the internet.
