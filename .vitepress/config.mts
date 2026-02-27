@@ -4,6 +4,7 @@ import { defineConfig } from "vitepress";
 export default defineConfig({
   title: "Peter Park",
   description: "Documentation of my life and work",
+  base: "/petercpark-website/",
   themeConfig: {
     nav: [
       { text: "Home", link: "/" },
