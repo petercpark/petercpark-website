@@ -11,7 +11,7 @@ hero:
       text: Learn More
       link: /education
   image:
-    src: ./public/me.svg
+    src: /me.svg
     # - theme: alt
     #   text: API Examples
     #   link: /api-examples
